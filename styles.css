@@ -1,7 +1,51 @@
-body {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-size: 15px;
   font-family: 'Outfit', sans-serif;
-  /* background-color: yellow; */
-  background-image: url('/images/designs/desktop-design.jpg');
+}
+
+body {
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  /* background-image: url('/images/designs/desktop-design.jpg'); */
+}
+
+.principalBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 24%;
+  min-width: 320px;
+  height: 80vh;
+  min-height: 500px;
+  margin: 0 auto;
+  padding: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 1rem;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.principalBox img {
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+.principalBox h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+
+.principalBox p {
+  padding: 0 1rem;
+  margin-bottom: 2rem;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
 }
 
