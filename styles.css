@@ -1,5 +1,7 @@
 body {
   font-size: 15px;
   font-family: 'Outfit', sans-serif;
-  background-color: yellow;
+  /* background-color: yellow; */
+  background-image: url('/images/designs/desktop-design.jpg');
 }
+
