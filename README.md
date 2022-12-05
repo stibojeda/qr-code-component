@@ -24,8 +24,9 @@ For this challenge the users should be able to:
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: []()
-- Live site URL: []()
+- [Challenge's website](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- [Live solution page](https://stibojeda.github.io/qr-code-component/)
+- [Code repository](https://github.com/stibojeda/qr-code-component)
 
 ## My process
 
