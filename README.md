@@ -4,6 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,6 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [About me](#about-me)
 
 ## Overview
+
+### The challenge
+For this challenge the users should be able to: 
+- View the optimal layout depending on their device's screen size.
+- See the same page of a QR code component, as the design.
 
 ### Screenshot
 ![](./screenshot.png)
