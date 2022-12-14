@@ -30,7 +30,7 @@ For this challenge the users should be able to:
 
 ## My process
 
-###Built with
+### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
